@@ -177,7 +177,7 @@ function App() {
         </div>
         <div className="bg-base-200 flex justify-center px-4 py-16">
           <select className="select select-secondary w-full max-w-xs">
-            <option disabled selected>Pick your favorite language</option>
+            <option disabled >Pick your favorite language</option>
             <option>Java</option>
             <option>Go</option>
             <option>C</option>
@@ -188,7 +188,7 @@ function App() {
             <option>Python</option>
           </select>
           <select className="select select-success w-full max-w-xs">
-            <option disabled selected>Pick your favorite anime</option>
+            <option disabled >Pick your favorite anime</option>
             <option>One Piece</option>
             <option>Naruto</option>
             <option>Death Note</option>

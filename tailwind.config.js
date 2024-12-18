@@ -12,6 +12,7 @@ export default {
   plugins: [daisyui,
     require('@tailwindcss/typography'),
   ], // Agrega DaisyUI como plugin
+  //plugins: [daisyui, require('@tailwindcss/typography'), ], // Agrega DaisyUI como plugin
   daisyui: {
     themes: ["dark"], // Elige los temas que quieres habilitar
   },
